@@ -1,3 +1,8 @@
 # Coding-Examples
 Quick coding projects and labs to demostrate my knowledge
-in many different languages
+in the following languages:
+
+    -javascript
+    -C++
+    -HTML
+    -CSS
